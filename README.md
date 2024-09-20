@@ -8,4 +8,4 @@ by Moritz Weinrich
 
 
 
-The [requirement.txt](../requirement.txt) is for the packages [index.ipynb](../SCRIPTS/index.ipynb) is the main source file  
+The [requirement.txt](../main/requirement.txt) is for the packages [index.ipynb](../main/SCRIPTS/index.ipynb) is the main source file  
